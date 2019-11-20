@@ -23,7 +23,7 @@
 ---
 
 # 图片
-![这是一张图片](http://img4.imgtn.bdimg.com/it/u=4236508418,1950039138&fm=26&gp=0.jpg)
+![这是一张图片](https://github.com/zhang1126/medea/blob/master/medea/img/01.jpg?raw=true)
 
 # 链接
 [百度](www.baidu.com)
